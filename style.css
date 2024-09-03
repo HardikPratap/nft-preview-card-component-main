@@ -80,6 +80,8 @@ hr{
     width: 40px;
 }
 .creator-name{
+    padding-top: 10px ;
+    display: flex;
     font-size: 15px;
     padding-left: 10px;
     color: rgb(84, 98, 110);
